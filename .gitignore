@@ -1,0 +1,7 @@
+/tests/
+/vendor/*
+.idea/
+/GAMA/*
+.env
+composer.lock
+GAMA.zip
